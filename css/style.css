@@ -211,7 +211,7 @@
 }
 
 .faqdiv {
-  width:%;
+  width:100%;
   padding-top: 37%;
   padding-left: 28%;
   padding-right: 28%;
@@ -264,7 +264,10 @@ footer a:hover {
 }
 
 .tellus{
- text-align: center;
+  color: #fece00;
+  font-size: 25px;
+  font-weight: bolder;
+  text-align: center;
 }
 
 .form-control{
@@ -272,7 +275,7 @@ footer a:hover {
  }
 
  .btn-success{
-  color: black;
+  color: white;
   background-color: #fece00;
   margin: auto;
   text-align: center;
